@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sharonbabu107@gmail.com**
 
-- 📄 Know about my experiences [https://sharonbabusharon.github.io/resume/](https://sharonbabusharon.github.io/resume/)
+- 📄 Know about my experiences [https://sharon-personal-portfolio.vercel.app/](https://sharon-personal-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
